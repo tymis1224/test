@@ -10,8 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "react": "16.9.0",
-    "react-native": "0.61.2",
+    "react": "16.9.0", 
+    "react-native":  "0.61.2",
     "react-native-card-flip": "^1.0.4",
     "react-native-unimodules": "^0.7.0-rc.1"
   },
